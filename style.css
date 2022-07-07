@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+center {
+    background-color: #ec9706;
+}
+.header_div {
+    background-color: #fc6a03;
+    padding-bottom: 10px;
+}
+#Start_btn {
+  background-color: lightskyblue; 
+  height: 75px;
+  width: 250px;
+  font-size: 25px;  
+  font-family: fantasy;
+}
+h4 {
+    font-family: cursive;
+    font-size: 30px;    
+}
+#body_div {
+    padding-top: 100px;
+}
